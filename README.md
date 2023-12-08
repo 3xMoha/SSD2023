@@ -9,6 +9,7 @@ Repository for practice in Software System Development 2023
 
 * Hi this is Hajimu!
 * Write something unique in one line.
+* Xin chào, my name is Nguyen Ngoc Huy - こんにちは、私はグエン・ゴック・ホイです。
 * Hi this is Seiji.
 * This is tuwaemuesa Thapakorn 2311429, Please merge mine :D
 * Hi, I'm Yuya Kawabata!
@@ -37,10 +38,13 @@ I added this line.
 * Hi, I'm Wataru Mabuchi!!
 * Hi Hi Hi!! this is Carlos!
 * Hi Hi Hi!! this is Erika!
+* Hi Hi Hi!! this is Kodai!
 * Hi! This is Kota!
 * Hi! this is Daisuke Sakai!
 * Hi! This is CAO ZHE
 * Hi, I am anam
 * Hi! This is Kudo!
+* Hi, I'm Phuong Nam
 * PARTY TIME.
 * Hi! My name is Akhdan, my student ID is 2311428!
+* 提出時間ギリギリでごめんなさい_:(´ཀ`」 ∠):
