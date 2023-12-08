@@ -38,6 +38,7 @@ I added this line.
 * Hi, I'm Wataru Mabuchi!!
 * Hi Hi Hi!! this is Carlos!
 * Hi Hi Hi!! this is Erika!
+* Hi Hi Hi!! this is Kodai!
 * Hi! This is Kota!
 * Hi! this is Daisuke Sakai!
 * Hi! This is CAO ZHE
